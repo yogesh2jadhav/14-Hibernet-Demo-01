@@ -1,10 +1,10 @@
-package com.luv2code.hibernetdemo.AutoIn;
+package com.luv2code.hibernetdemo02.AutoIn;
 
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
 
-public class StudentAIDemo {
+public class CreateManyStudentAIDemo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

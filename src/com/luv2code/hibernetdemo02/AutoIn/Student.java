@@ -1,4 +1,4 @@
-package com.luv2code.hibernetdemo.AutoIn;
+package com.luv2code.hibernetdemo02.AutoIn;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
